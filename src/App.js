@@ -19,10 +19,10 @@ function App() {
         />
         <input
           type="text" 
-          placeholder='surname'
+          placeholder='surname' 
         />
        <button type="submit">Log in</button>
-          Learn React
+         
         </a>
       </header>
     </div>

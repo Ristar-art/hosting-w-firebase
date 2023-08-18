@@ -21,7 +21,7 @@ function App() {
           type="text" 
           placeholder='surname'
         />
-         <button type="submit">Log in</button>
+         <button type="submit">submit</button>
           Learn React
         </a>
       </header>

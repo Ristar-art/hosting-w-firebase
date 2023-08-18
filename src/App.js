@@ -19,7 +19,7 @@ function App() {
         >
           <input
           type="text" 
-                placeholder='input'
+          placeholder='name'
         />
           Learn React
         </a>

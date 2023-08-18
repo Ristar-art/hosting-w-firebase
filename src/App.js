@@ -10,13 +10,17 @@ function App() {
          fiEdit <code>src/App.js</code> and save to reload.
           
         </p>
-        <input>input</input>
+        
         <a
           className="App-link"
           href="https://reactjs.org"
           target="_blank"
           rel="noopener noreferrer"
         >
+          <input
+          type="text" 
+                placeholder='input'
+        />
           Learn React
         </a>
       </header>

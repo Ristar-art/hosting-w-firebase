@@ -32,6 +32,11 @@ function App() {
 
         />
          <input
+          type="password" 
+          placeholder='confirm password'
+
+        />
+         <input
           type="text" 
           placeholder='phone Number'
         />

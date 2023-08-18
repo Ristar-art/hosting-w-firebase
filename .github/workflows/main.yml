@@ -29,4 +29,4 @@ jobs:
           # Deploy your application to Firebase Hosting
           firebase deploy --only hosting --token "$FIREBASE_TOKEN"
         env:
-          FIREBASE_TOKEN: ${{ secrets.FIREBASE_TOKEN }}
+          FIREBASE_TOKEN: ${{ secrets.ABIDE_IN_CHRIST }}

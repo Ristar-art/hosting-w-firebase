@@ -26,6 +26,10 @@ function App() {
           type="text" 
           placeholder='email'
         />
+        <input
+          type="password" 
+          placeholder='password'
+        />
          <button type="submit">submit</button>
           Learn React
         </a>

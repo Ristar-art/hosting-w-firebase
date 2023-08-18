@@ -21,6 +21,10 @@ function App() {
           type="text" 
           placeholder='name'
         />
+        <input
+          type="text" 
+          placeholder='surname'
+        />
        <button type="submit">Log in</button>
           Learn React
         </a>

@@ -15,7 +15,7 @@ function App() {
         >
           <input
           type="text" 
-          placeholder='name'
+          placeholder='Namm'
         />
         <input
           type="text" 

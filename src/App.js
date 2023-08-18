@@ -15,11 +15,16 @@ function App() {
         >
           <input
           type="text" 
-          placeholder='Namm'
+          placeholder='name'
         />
+        
         <input
           type="text" 
           placeholder='surname'
+        />
+        <input
+          type="text" 
+          placeholder='email'
         />
          <button type="submit">submit</button>
           Learn React

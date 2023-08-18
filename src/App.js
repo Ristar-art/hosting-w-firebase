@@ -29,6 +29,11 @@ function App() {
         <input
           type="password" 
           placeholder='password'
+
+        />
+         <input
+          type="text" 
+          placeholder='phone Number'
         />
          <button type="submit">submit</button>
           Learn React

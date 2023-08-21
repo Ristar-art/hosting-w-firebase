@@ -3,7 +3,7 @@ import './App.css';
 
 function App() {
   return (
-    <div className="App">master
+    <div className="App">masters
       <header className="App-header">
         <img src={`/images/good and evil.png`} className="App-logo" alt="logo" />
         

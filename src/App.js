@@ -13,28 +13,32 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
+          <br></br>
           <input
           type="text" 
           placeholder='name'
         />
-        
+        <br></br>
         <input
           type="text" 
           placeholder='surname'
         />
+        <br></br>
         <input
           type="text" 
           placeholder='email'
         />
+        <br></br>
         <input
           type="password" 
           placeholder='password'
-
         />
+        <br></br>
          <input
           type="text" 
           placeholder='phone Number'
         />
+        <br></br>
          <button type="submit">submit</button>
           Learn React
         </a>
